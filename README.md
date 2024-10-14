@@ -52,8 +52,11 @@ This is a simple BMI (Body Mass Index) calculator built using JavaFX. The applic
 ## Screenshots
 
 - **Main Window**: Displays the input fields for weight, height, and the unit switcher, along with the buttons for calculating BMI, clearing inputs, and exiting the application.
+
   ![Screenshot 2024-10-14 235426](https://github.com/user-attachments/assets/27af39f4-5dfe-4f4f-827d-fbf48761cef0)
+  
 - **Help Window**: Opens a simple window with instructions on how to use the application.
+
   ![Screenshot 2024-10-14 235632](https://github.com/user-attachments/assets/24728429-7e22-4c0c-a6a8-05cae57d1b5c)
 
 ## Examples of usage
